@@ -74,4 +74,4 @@ for the best experience in using this app you will need insomnia (both kinds) th
 
 
 ## Links
-tutorial https://youtu.be/ktS9pmK2k2o
+tutorial https://youtu.be/A82PSGdh1Ec
